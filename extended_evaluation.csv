@@ -1,0 +1,21 @@
+Email,Actual,Predicted,Correct
+Congratulations! Claim your exclusive cash reward today.,spam,spam,True
+You have been selected for a guaranteed investment return.,spam,spam,True
+Your account is locked. Send your password to restore access.,spam,spam,True
+Earn thousands of dollars with only ten minutes of work.,spam,spam,True
+You have an unclaimed inheritance. Pay the processing fee.,spam,not_spam,False
+"Dear customer, please confirm your credit card details.",spam,not_spam,False
+Make money quickly with our secret trading method.,spam,spam,True
+Your lottery payment is pending. Send your bank details.,spam,not_spam,False
+Exclusive miracle supplement with guaranteed results.,spam,spam,True
+A confidential business opportunity promises instant profit.,spam,spam,True
+The university is offering free English classes next week.,not_spam,not_spam,True
+Please review the attached invoice for your recent purchase.,not_spam,not_spam,True
+Your scholarship application has been successfully received.,not_spam,not_spam,True
+Our store is offering a discount to registered customers.,not_spam,spam,False
+Reminder: Your hospital appointment is tomorrow.,not_spam,not_spam,True
+Please reset your password through the official university portal.,not_spam,not_spam,True
+Congratulations on passing your final examination!,not_spam,not_spam,True
+Your bank statement is available in your banking application.,not_spam,not_spam,True
+Please submit the project report before the deadline.,not_spam,not_spam,True
+You are invited to attend a free research seminar.,not_spam,not_spam,True

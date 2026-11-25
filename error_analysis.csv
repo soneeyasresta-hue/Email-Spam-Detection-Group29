@@ -1,0 +1,5 @@
+Email,Actual,Predicted,Correct,Error Type
+You have an unclaimed inheritance. Pay the processing fee.,spam,not_spam,False,False Negative
+"Dear customer, please confirm your credit card details.",spam,not_spam,False,False Negative
+Your lottery payment is pending. Send your bank details.,spam,not_spam,False,False Negative
+Our store is offering a discount to registered customers.,not_spam,spam,False,False Positive

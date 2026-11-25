@@ -1,0 +1,7 @@
+Email,Actual,Predicted,Correct
+Congratulations! You have won a free vacation. Claim your prize immediately!,spam,spam,True
+"Dear students, tomorrow's lecture will begin at 10 AM.",not_spam,not_spam,True
+Earn money from home with no experience. Register now!,spam,spam,True
+"Hi, can we meet tomorrow to discuss our final project?",not_spam,not_spam,True
+URGENT! Your bank account will be suspended. Verify your password now!,spam,spam,True
+Thank you for your application. Your interview is scheduled for Monday.,not_spam,not_spam,True
